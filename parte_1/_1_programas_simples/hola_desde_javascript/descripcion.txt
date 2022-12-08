@@ -1,0 +1,3 @@
+En este ejercicio debes agregar tu nombre para mandar un saludo desde la consola.
+Ejemplo Salida:
+Hola desce javascript carlos.

@@ -1,0 +1,1 @@
+Este programa determina la mayoria de edad si eres mayor puedes votar y si no eres mayor no puedes votar.

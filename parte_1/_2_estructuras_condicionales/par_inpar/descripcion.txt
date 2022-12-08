@@ -1,0 +1,2 @@
+En este programa el usuario digita un numero
+y el programa determina si el numero ingresado es par o inpar.

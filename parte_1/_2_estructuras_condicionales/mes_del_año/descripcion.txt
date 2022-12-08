@@ -1,0 +1,1 @@
+En este ejercicio debes determinar el dia de el mes con un numero y si el numero de mes no coincide arojar un error. 
