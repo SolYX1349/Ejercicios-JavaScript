@@ -1,0 +1,4 @@
+En este ejercicio se deben obtebner los datos de perimetro , area y diametro apartir de un radio
+el cual tiene que ser variable.
+Ejemplo Salida:
+Perimetro = 10 Area = 15 Diametro = 40.3
