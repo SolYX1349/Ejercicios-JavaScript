@@ -1,0 +1,6 @@
+En este ejercicio debes usar un ciclo de tu agrado y aumentarlo hasta que llegue a el numero indicado 
+por ustd con una condicional y utilizar break para terminar. imprime que el contador ha finalizado.
+Ejemplo:
+incrementa i hasta cuando encuentres el numero 99 sal
+99
+El contador ha finalizado. 

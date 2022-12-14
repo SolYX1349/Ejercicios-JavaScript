@@ -1,0 +1,8 @@
+En este ejercicio debes usar while para incrementar un numero y mandar un mensaje al finalizar el ciclo.
+Ejemplo:
+1
+2
+3
+4
+5
+While ha finalizado.

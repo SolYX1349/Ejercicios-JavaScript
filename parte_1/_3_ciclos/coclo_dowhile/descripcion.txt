@@ -1,0 +1,14 @@
+En este ejercicio debes incrementar un contador hasta el 10 utilizando la centencia doWhile
+al finalizar el ciclo imprime que ha finalizado el ciclo.
+Ejemplo:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Se termina el ciclo.
