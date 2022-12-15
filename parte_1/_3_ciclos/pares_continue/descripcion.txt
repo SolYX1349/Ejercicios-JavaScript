@@ -1,0 +1,9 @@
+En este ejercicio tienes que imprimir por consola los numeros pares
+pero utilizando una negacion la cual contendra un continue para saltar el proceso de numero inpar.
+Ejemplo:
+1 modulo de 2 es  diferente de 0?
+si
+entonces continua.
+2 modulo de 2 es  diferente de 0?
+no
+entonces imprime el numero par.
