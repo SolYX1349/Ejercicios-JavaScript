@@ -1,0 +1,6 @@
+En este ejercicio debes crear un objeto llamado persona 
+el cual debe tener nombre , edad y correo imprime la persona por consola.
+Ejemplo:
+carlos
+18
+carlitos33@mail.com
