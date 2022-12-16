@@ -1,11 +1,11 @@
 let horaActual = 3;
-let cantidadHoras = 190;
+let cantidadHoras = 128;
 let dias = 0;
 let horas = horaActual;
 
 for(let i = 0; i < cantidadHoras; i++){
     horas++;
-    if(horas > 12){
+    if(horas == 24){
         dias++;
         horas = 1;
     }

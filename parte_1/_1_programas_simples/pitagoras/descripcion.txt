@@ -1,0 +1,5 @@
+En este programa se solicitara a el usuario un cateto a y un cateto b
+el cual le mostrara el lado desconocido de el triangulo rectangulo
+luego el programa muestra el procedimiento y el resultado.
+Ejemplo:
+Cateto a2 + Cateto b2 = Hipotenusa.
