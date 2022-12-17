@@ -1,0 +1,9 @@
+En este programa se le solicita a el usuario dos numeros
+y posterior mnte se ingresa un caracter de tipo simbolo algebraico
+el programa determina el tipo de operacion y devuelve un resultado de la operacion.
+Ejemplo:
+1
+2
++
+Salida:
+1 + 2 = 3
