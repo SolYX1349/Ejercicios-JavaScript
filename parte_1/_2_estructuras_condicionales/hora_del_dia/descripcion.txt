@@ -1,0 +1,6 @@
+En este ejercicio se debe mandar un mensaje dependiendo de la hora del dia.
+Ejemplo:
+6am-11am = Buenos Dias
+12pm=18pm = Buenas Tardes
+19pm-24pm = Buenas Noches
+0am-6am = Durmiendo

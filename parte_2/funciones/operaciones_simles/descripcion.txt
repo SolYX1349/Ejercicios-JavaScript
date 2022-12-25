@@ -1,0 +1,6 @@
+En este ejercicio debes crear una cuncion con retorno de sumar , restar , multiplicar y dividir.
+Ejemplo:
+Funcion sumar(a,b);
+Funcion restar(a,b);
+Funcion multiplicar(a,b);
+Funcion dividir(a,b);

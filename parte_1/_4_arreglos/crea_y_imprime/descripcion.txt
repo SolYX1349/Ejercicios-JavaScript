@@ -1,0 +1,10 @@
+En este ejercicio debes crear un arreglo y posterior mente 
+imprimir por consola cadauno de sus valores almacenados (usa un iterador).
+Ejemplo Entrada:
+nombre = [luis , carlos , alvaro]
+
+Salida:
+
+luis
+carlos
+alvaro

@@ -1,0 +1,4 @@
+En este ejercicio se debe indicar la estacion de le año dependiendo el numero de mes utiliza una centencia condicional.
+Ejemplo: 
+Enero = 1
+1 = invierno

@@ -1,0 +1,6 @@
+En este ejercicio tienes que definir un arreglo con contenido 
+y despues debes agregar un contenido mas al arreglo.
+Ejemplo:
+array["Casa","Auto"]
+agregar = Avion;
+array["Casa","Auto","Avion"]

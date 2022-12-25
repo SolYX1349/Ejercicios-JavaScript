@@ -1,0 +1,6 @@
+En este ejercicio debes definir un arreglo y posterior a eso debes modificar uno de sus valores.
+Ejemplo:
+array ["Papel","Hoja"]
+
+Salida:
+array["Papel","Libreta"]

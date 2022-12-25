@@ -1,0 +1,14 @@
+En este ejercicio debes incrementar tu contador hasta 10 con la centencia for 
+al final imprime que ha terminado su ejecucion.
+Ejemplo:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+El ciclo ha terminado.
