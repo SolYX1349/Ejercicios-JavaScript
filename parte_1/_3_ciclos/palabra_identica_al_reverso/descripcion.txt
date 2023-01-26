@@ -1,0 +1,8 @@
+En este ejercicio se debe crear un programa que identifique si la palabra ingresada el la misma al reverso.
+Ejemplo:
+pablo al reverso es lo mismo?
+falso pablo = olbap
+lol al reverso es lo mismo?
+verdadero lol = lol
+
+Imprime o muestra el mensaje final si La palabra es identica o distinta.

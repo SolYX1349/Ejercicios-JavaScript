@@ -1,0 +1,3 @@
+En este ejercicio debes imprimir tu nombre por consola.
+Ejemplo:
+Hola yo soy Arturito 
