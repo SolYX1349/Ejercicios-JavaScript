@@ -1,0 +1,10 @@
+En este ejercicio se debe crear un metodo de auto llamado el cual se ejecuta solo una vez.
+Imprime por consola los dias de la semana.
+Ejemplo:
+Lunes 
+Martes 
+Miercoles
+Jueves
+Viernes
+Sabado
+Domingo
