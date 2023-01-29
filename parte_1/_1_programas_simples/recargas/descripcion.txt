@@ -1,0 +1,8 @@
+En este programa el usuario ingresa su (numero de telefono) y posterior mente le solicitara verificar
+su numero y recibira un mensaje de salida el cual le dice si logro pasar su recarga.
+Ejemplo:
+
+Numero de telefono = 1234567890
+Verificar = 1234567890
+
+Logro pasar su recarga.
