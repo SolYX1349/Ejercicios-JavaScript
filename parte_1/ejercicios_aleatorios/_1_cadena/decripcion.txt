@@ -1,0 +1,9 @@
+En este ejercicio dada una cadena o una URL de algún buscador de preferencia retornar atrevés de una función
+el mensaje de búsqueda.
+
+Ejemplo:
+let url = "https://search.brave.com/search?q=imagenes+de+animales+que+viven+en+cuevas&source=web";
+console.log(obtenerCadenaBusquedaBrave(url));
+
+Salida:
+imagenes de animales que viven en cuevas 
