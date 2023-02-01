@@ -1,0 +1,10 @@
+En este programa el usuario ingresa una cantidad de umeros
+los cuales pueden ser positivos, negativos y nullos el programa
+determina la cantidad de numeros positivos,negativos y nullos.
+Ejemplo:
+ingresa -1, 5, 8, 3, 0
+
+Salida:
+Negativos = 1
+Positivos = 3
+Nullos = 1
