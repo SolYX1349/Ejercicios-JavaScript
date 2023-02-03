@@ -1,0 +1,26 @@
+En este ejercicio se crea un programa el cual manipula datos de tipo objeto para la compra o agregaciòn de 
+componentes de computadora como maus , teclado y monitor, luego se genera una orden para poder adquirir el equipo completo.
+
+Entrada:
+
+let raton1 = new Raton("USB", "Logitech");
+let teclado1 = new Teclado("Bluethooth", "Logitech");
+let monitor1 = new Monitor("Asus", "23x40");
+let computadora1 = new Computadora("Razer", monitor1, teclado1, raton1);
+
+let raton2 = new Raton("USB", "Asus");
+let teclado2 = new Teclado("USB", "Razen");
+let monitor2 = new Monitor("LG", "22x30");
+let computadora2 = new Computadora("Razer", monitor2, teclado2, raton2);
+
+Salida:
+
+Orden: 1  
+Computadora 1 : Razer 
+Monitor 1 : Marca: Asus Tamaño: 23x40 
+Raton 1 : Entada: USB Marca: Logitech 
+Teclado 1 : Entada: Bluethooth Marca: Logitech 
+Computadora 2 : Razer 
+Monitor 2 : Marca: LG Tamaño: 22x30 
+Raton 2 : Entada: USB Marca: Asus 
+Teclado 2 : Entada: USB Marca: Razen 
