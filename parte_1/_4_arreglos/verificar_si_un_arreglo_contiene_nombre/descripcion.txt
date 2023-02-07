@@ -1,0 +1,10 @@
+En este ejercicio se ingresan tres nombres a un arreglo 
+la funcion deberia retornar si el nombre buscado esta en ese arrelo.
+Ejemplo:
+let nombres = ["Carlos","Mauricio","Hector"];
+console.log(checkIfContainsName(nombres , "Hector"));
+console.log(checkIfContainsName(nombres , "Cristian"));
+
+Salida:
+true
+false
