@@ -1,0 +1,8 @@
+En este programa el usuario ingresa dos palabras las cuales son conparadas
+y el programa determina cul tiene una longitud mas alta.
+
+Ejemplo:
+console.log(palabraMasLarga("hola", "adios"));
+
+Salida:
+Las palabra adios es mas grande que la palabra hola 
