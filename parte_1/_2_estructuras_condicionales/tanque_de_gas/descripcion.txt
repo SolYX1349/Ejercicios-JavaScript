@@ -1,0 +1,9 @@
+En este ejercicio un usuario pide llenar su tanque de gasoina y el programa
+deve determinar en que cantidad de llenado quedara su tanque de gasolina.
+Volumen de Tanque = 1000L
+
+EJemplo:
+llenar 500 litros.
+
+Salida:
+Tanque -> medio
