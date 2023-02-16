@@ -1,0 +1,8 @@
+En este ejercicio se simula un loguin que enlugar de enviar los datos al servidor los muestra por un mensaje de alerta.
+Ejempli Entrada:
+Maria@gmail.com
+12345678910
+
+Salida:
+Correo: Maria@gmail.com
+Contraseña: 12345678910
