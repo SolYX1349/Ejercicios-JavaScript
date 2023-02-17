@@ -1,0 +1,2 @@
+Se debe crear una lista la cual va a contener objetos de personas con nombres y apellidos
+posterior a eso se se agregan a una lista la cual se muestra.
