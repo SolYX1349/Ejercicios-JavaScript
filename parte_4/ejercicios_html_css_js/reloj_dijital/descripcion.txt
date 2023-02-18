@@ -1,0 +1,1 @@
+En esta aplicación se crea un reloj dijital que muestra la hora y fecha transcurrida.
