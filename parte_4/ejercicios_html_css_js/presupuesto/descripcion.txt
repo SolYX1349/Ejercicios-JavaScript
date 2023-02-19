@@ -1,0 +1,1 @@
+En este proyecto se realiza una aplicacion de consulta de presupuestos.
