@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Presupuestos</title>
+  </head>
+  <body>
+    <div id="container-1">
+      <h2>Presupuesto Disponible</h2>
+      <div id="presupuesto-disponible"><p id="valor-presupuesto-final">$0.00</p></div>
+      <div id="container-ing-egr">
+        <div id="ingresos-cont-1">
+          <p>Ingresos</p>
+          <p id="valor-ingresos-final">$0.00</p>
+        </div>
+        <div id="egresos-cont-1">
+          <p>Egresos</p>
+          <p id="valor-egresos-final">$0.00</p>
+        </div>
+      </div>
+    </div>
+    <div id="container-2">
+      <div id="container-ing-datos">
+        <select name="ing-tipo-val" id="ing-tipo-val" value="" required>
+          <option value="positivo">+</option>
+          <option value="negativo">-</option>
+        </select>
+        <input
+          type="text"
+          name="mensajnombre-presupuesto"
+          id="mensajnombre-presupuesto"
+          placeholder="Menssaje de Ingreso o Egreso"
+          required
+        />
+        <input
+          type="number"
+          name="valor-presupuesto"
+          id="valor-presupuesto"
+          placeholder="$ Valor de Ingreso o Egreso"
+          required
+        />
+        <button id="button-agre">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/1008/1008917.png"
+            alt="icono"
+          />
+        </button>
+      </div>
+      <div id="container-mustra-datos">
+        <div>
+          <h2 id="c-m-d-h2-1">Ingresos</h2>
+          <ul id="lista-ingresos"></ul>
+        </div>
+        <div>
+          <h2 id="c-m-d-h2-2">Egresos</h2>
+          <ul id="lista-egresos"></ul>
+        </div>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>

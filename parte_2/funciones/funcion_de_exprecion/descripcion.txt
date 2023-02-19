@@ -1,0 +1,5 @@
+En este ejercicio se bebe crear una funcion de tipo variable la cual sume dos parametros a y b.
+Ejemplo:
+var x funcion a + b
+x(1 + 5); print
+R = 6

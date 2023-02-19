@@ -1,0 +1,10 @@
+En este ejercicio se debe crear una clase persona , empleado y cliente usando la herencia.
+Ejemplo:
+let persona = new Persona("Carlos", "Soto", 24);
+let empleado = new Empleado("Erick","Santos",53,20000);
+let cliente = new Cliente("Maria","Lourdes",21);
+
+Salida:
+{"_nombre":"Carlos","_apellido":"Soto","_edad":24,"_idPersona":1} 
+{"_nombre":"Erick","_apellido":"Santos","_edad":53,"_idPersona":2,"_sueldo":20000,"_idEmpleado":1} 
+{"_nombre":"Maria","_apellido":"Lourdes","_edad":21,"_idPersona":3,"_fechaRegistro":"2023-02-02T00:25:06.948Z","_idCliente":1} 

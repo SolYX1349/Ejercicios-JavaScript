@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Calculadora</title>
+  </head>
+  <body>
+    <h1>Aplicación Calculadora</h1>
+    <div id="display"></div>
+    <div id="button-functions">
+      <button class="botones-operaciones" id="buttonSumar">+</button>
+      <button class="botones-operaciones" id="buttonRestar">-</button>
+      <button class="botones-operaciones" id="buttonMultiplicar">*</button>
+      <button class="botones-operaciones" id="buttonDividir">/</button>
+      <button class="botones-operaciones" id="buttonLimpiar">C</button>
+    </div>
+    <form id="calculadora-inputs">
+      <input
+        type="number"
+        name="numeroA"
+        id="numeroA"
+        value=""
+        placeholder="Escribe operando A"
+      />
+      <input
+        type="number"
+        name="numeroB"
+        id="numeroB"
+        value=""
+        placeholder="Escribe operando B"
+      />
+    </form>
+    <script src="index.js" defer></script>
+  </body>
+</html>

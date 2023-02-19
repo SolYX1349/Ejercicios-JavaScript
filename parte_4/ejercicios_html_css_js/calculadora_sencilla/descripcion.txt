@@ -1,0 +1,2 @@
+En este ejercicio se crea una calculadora basica con operaciones como (suma ,resta ,multiplicación ,divición) 
+dejando la prioridad al funcionamiento y no a la estetica.

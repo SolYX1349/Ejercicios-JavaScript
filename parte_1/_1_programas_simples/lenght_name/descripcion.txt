@@ -1,0 +1,3 @@
+En este ejercicio debes imprimir la longitud de tu nombre por consola.
+Ejemplo:
+Arturito = 8

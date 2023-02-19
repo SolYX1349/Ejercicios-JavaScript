@@ -1,0 +1,7 @@
+En este ejercicio debes crear un arreglo el cal contenga un numero en cada una de esas posiciones
+y posterir mente sumarlas y mostrar el resultado.
+Ejemplo:
+Array [1,2,3,4,5]
+
+Salida:
+Resultado = 15

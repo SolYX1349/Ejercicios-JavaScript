@@ -1,0 +1,12 @@
+En este ejercicio se crean una clase la cuale extiende de una tipo super 
+las dos implementan un metodo y aplicando una funcion se aplica el polimorfismos;
+Ejemplo:
+let persona = new Persona("Mauricio",23);
+let empleado = new Empleado("Hector",25,"Gerente");
+
+imprimirDatos(persona);
+imprimirDatos(empleado);
+
+Salida:
+Nombre: Mauricio Edad: 23
+Nombre: Hector Edad: 25  Puesto: Gerente

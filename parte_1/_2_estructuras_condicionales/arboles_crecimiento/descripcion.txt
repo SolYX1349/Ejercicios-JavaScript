@@ -1,0 +1,10 @@
+
+Una empresa forestal planta muchos árboles al dia
+y quieren sabes en cuanto tiempo sus árboles
+lograran medir 5 metros?.
+-Ocupando una medida estandar de crecimiento de 23 cm por año.
+
+Ejemplo:
+console.log(calcularCrecimientoArbol(0.13, 15.0));
+Salida:
+El árbol tardara 64 años en llegar a los 15 mts => 15.08000000000002 

@@ -1,0 +1,20 @@
+En este ejercicio se crea un sistema de ventas el cual contiene un producto y un administrador de 
+productos y ordenes.
+
+Ejemplo:
+let orden = new Orden();
+orden.agregarProductos("Camisa", 125.0);
+orden.agregarProductos("Pantalon", 189.0);
+orden.agregarProductos("Tenis", 199.0);
+orden.agregarProductos("Cartera", 217.0);
+orden.agregarProductos("USB", 665.0);
+
+Salida:
+Orden { id_orden = 1 
+{"_idProducto":1,"_nombre":"Camisa","_precio":125} 
+{"_idProducto":2,"_nombre":"Pantalon","_precio":189} 
+{"_idProducto":3,"_nombre":"Tenis","_precio":199} 
+{"_idProducto":4,"_nombre":"Cartera","_precio":217} 
+{"_idProducto":5,"_nombre":"USB","_precio":665} 
+Total = $1395 
+} 

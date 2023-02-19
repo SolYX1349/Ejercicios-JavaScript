@@ -1,0 +1,7 @@
+En este ejercicio se crea una funcion de tipo callback con setInterval y date 
+para mostrar un reloj de un minuto o de 1 segundo.
+
+Ejemplo:
+  console.log(` Hora: ${fecha.getHours} Minutos: ${fecha.getMinutes} Segundos: ${fecha.getSeconds}`);
+Salida:
+Hora: 20 Minutos: 29 Segundos: 4 
